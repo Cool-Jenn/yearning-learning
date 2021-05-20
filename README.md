@@ -21,7 +21,7 @@ This is all about how to use GitHub
   
 ## FAQ
 
-#### Question 1
+#### Where can I get help?
 
 Answer 1
 
